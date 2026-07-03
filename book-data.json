@@ -1,0 +1,874 @@
+{
+  "passageNumber": 36,
+  "title": "Future Life",
+  "units": [
+    "第一单元 开始",
+    "第二单元 发展",
+    "第三单元 结尾"
+  ],
+  "pages": [
+    {
+      "image": "assets/images/00.png",
+      "en": "Future Life",
+      "cn": "第 36 篇",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/01.png",
+      "en": "What do you think of future life?",
+      "cn": "你认为未来生活会怎样？",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/02.png",
+      "en": "Do you wonder how the world might change?",
+      "cn": "你想知道世界可能会如何改变吗？",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/03.png",
+      "en": "Here are some ideas.",
+      "cn": "这里有一些想法。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/04.png",
+      "en": "Which of these might come true?",
+      "cn": "其中哪些可能会实现呢？",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/05.png",
+      "en": "In the future, the weather will become warmer and warmer.",
+      "cn": "未来，天气会变得越来越暖和。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/06.png",
+      "en": "The sea level will rise as well.",
+      "cn": "海平面也会上升。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/07.png",
+      "en": "However, weather changes won't mean changing clothes.",
+      "cn": "然而，天气变化并不意味着要换衣服。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/08.png",
+      "en": "A new kind of coat can keep us warm when it's cold, and cool when it's hot.",
+      "cn": "一种新型外套能在寒冷时让我们保暖，在炎热时让我们凉爽。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/09.png",
+      "en": "We won't travel by bus or car any more.",
+      "cn": "我们将不再乘公共汽车或汽车旅行。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/10.png",
+      "en": "Every family can afford a small plane.",
+      "cn": "每个家庭都买得起一架小飞机。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/11.png",
+      "en": "It'll be cheap to travel anywhere--not only over land, but also over the sea or even into space.",
+      "cn": "去任何地方旅行都会很便宜，不仅能飞越陆地，也能飞越海洋，甚至进入太空。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/12.png",
+      "en": "Maybe there'll be too many planes at airports.",
+      "cn": "也许机场会有太多飞机。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/13.png",
+      "en": "Do you like long holidays?",
+      "cn": "你喜欢长假吗？",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/14.png",
+      "en": "If so, you will enjoy the future life.",
+      "cn": "如果喜欢，你会享受未来生活。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/15.png",
+      "en": "Turn on your machines and robots, and they will do all the heavy and difficult jobs for you.",
+      "cn": "打开你的机器和机器人，它们会为你做所有又重又难的工作。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/16.png",
+      "en": "With their help, people will have shorter working hours and longer holidays.",
+      "cn": "在它们的帮助下，人们会有更短的工作时间和更长的假期。",
+      "unit": 3
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "phonetic": "/ə/",
+      "translation": "一个；一"
+    },
+    "afford": {
+      "phonetic": "/əˈfɔːd/",
+      "translation": "买得起；承担得起",
+      "cardId": "core-008"
+    },
+    "airport": {
+      "phonetic": "/ˈeəpɔːt/",
+      "translation": "机场",
+      "cardId": "core-013"
+    },
+    "airports": {
+      "phonetic": "/ˈɛrˌpɔrts/",
+      "translation": "机场"
+    },
+    "all": {
+      "phonetic": "/ɔl/",
+      "translation": "全部"
+    },
+    "also": {
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "translation": "和"
+    },
+    "any": {
+      "phonetic": "/ˈɛni/",
+      "translation": "任何"
+    },
+    "anywhere": {
+      "phonetic": "/ˈeniweə(r)/",
+      "translation": "任何地方",
+      "cardId": "core-010"
+    },
+    "are": {
+      "phonetic": "/ər/",
+      "translation": "是"
+    },
+    "as": {
+      "phonetic": "/æz/",
+      "translation": "作为；像"
+    },
+    "at": {
+      "phonetic": "/æt/",
+      "translation": "在；于"
+    },
+    "be": {
+      "phonetic": "/bi/",
+      "translation": "是"
+    },
+    "become": {
+      "phonetic": "/bɪˈkəm/",
+      "translation": "变得"
+    },
+    "bus": {
+      "phonetic": "/bəs/",
+      "translation": "公共汽车"
+    },
+    "but": {
+      "phonetic": "/bət/",
+      "translation": "但"
+    },
+    "by": {
+      "phonetic": "/baɪ/",
+      "translation": "通过；在旁边"
+    },
+    "can": {
+      "phonetic": "/kən/",
+      "translation": "能"
+    },
+    "car": {
+      "phonetic": "/kɑr/",
+      "translation": "车"
+    },
+    "change": {
+      "phonetic": "/tʃeɪndʒ/",
+      "translation": "改变",
+      "cardId": "core-004"
+    },
+    "changes": {
+      "phonetic": "/ˈʧeɪnʤɪz/",
+      "translation": "变化"
+    },
+    "changing": {
+      "phonetic": "/ˈʧeɪnʤɪŋ/",
+      "translation": "改变"
+    },
+    "cheap": {
+      "phonetic": "/tʃiːp/",
+      "translation": "便宜的",
+      "cardId": "core-009"
+    },
+    "clothes": {
+      "phonetic": "/kloʊðz/",
+      "translation": "衣服"
+    },
+    "coat": {
+      "phonetic": "/koʊt/",
+      "translation": "外套"
+    },
+    "cold": {
+      "phonetic": "/koʊld/",
+      "translation": "寒冷的"
+    },
+    "come": {
+      "phonetic": "/kəm/",
+      "translation": "来"
+    },
+    "cool": {
+      "phonetic": "/kul/",
+      "translation": "凉爽的"
+    },
+    "difficult": {
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "translation": "困难的",
+      "cardId": "core-016"
+    },
+    "do": {
+      "phonetic": "/du/",
+      "translation": "做"
+    },
+    "enjoy": {
+      "phonetic": "/ˌɛnˈʤɔɪ/",
+      "translation": "享受"
+    },
+    "even": {
+      "phonetic": "/ˈivɪn/",
+      "translation": "甚至"
+    },
+    "every": {
+      "phonetic": "/ˈɛvəri/",
+      "translation": "每一个"
+    },
+    "family": {
+      "phonetic": "/ˈfæməli/",
+      "translation": "家庭"
+    },
+    "for": {
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给"
+    },
+    "future": {
+      "phonetic": "/ˈfjuːtʃə(r)/",
+      "translation": "未来",
+      "cardId": "core-001"
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "translation": "有"
+    },
+    "heavy": {
+      "phonetic": "/ˈhɛvi/",
+      "translation": "重的"
+    },
+    "help": {
+      "phonetic": "/hɛlp/",
+      "translation": "帮助"
+    },
+    "here": {
+      "phonetic": "/hir/",
+      "translation": "这里"
+    },
+    "holidays": {
+      "phonetic": "/ˈhɑləˌdeɪz/",
+      "translation": "假期"
+    },
+    "hot": {
+      "phonetic": "/hɑt/",
+      "translation": "热的"
+    },
+    "hours": {
+      "phonetic": "/aʊərz/",
+      "translation": "小时"
+    },
+    "how": {
+      "phonetic": "/haʊ/",
+      "translation": "如何"
+    },
+    "however": {
+      "phonetic": "/ˌhaʊˈɛvər/",
+      "translation": "然而"
+    },
+    "ideas": {
+      "phonetic": "/aɪˈdiəz/",
+      "translation": "想法"
+    },
+    "if": {
+      "phonetic": "/ɪf/",
+      "translation": "如果"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "translation": "在……里"
+    },
+    "into": {
+      "phonetic": "/ˈɪntu/",
+      "translation": "进入"
+    },
+    "itll": {
+      "phonetic": "/itll/",
+      "translation": "伊特拉"
+    },
+    "its": {
+      "phonetic": "/ɪts/",
+      "translation": "它的；它是"
+    },
+    "job": {
+      "phonetic": "/dʒɒb/",
+      "translation": "工作",
+      "cardId": "core-017"
+    },
+    "jobs": {
+      "phonetic": "/ʤɑbz/",
+      "translation": "职位"
+    },
+    "keep": {
+      "phonetic": "/kip/",
+      "translation": "保持"
+    },
+    "kind": {
+      "phonetic": "/kaɪnd/",
+      "translation": "种类"
+    },
+    "land": {
+      "phonetic": "/lænd/",
+      "translation": "陆地",
+      "cardId": "core-011"
+    },
+    "level": {
+      "phonetic": "/ˈsiː levl/",
+      "translation": "海平面",
+      "cardId": "core-006"
+    },
+    "life": {
+      "phonetic": "/laɪf/",
+      "translation": "生活"
+    },
+    "like": {
+      "phonetic": "/laɪk/",
+      "translation": "喜欢"
+    },
+    "long": {
+      "phonetic": "/lɔŋ/",
+      "translation": "长的"
+    },
+    "longer": {
+      "phonetic": "/ˈlɔŋgər/",
+      "translation": "更长"
+    },
+    "machine": {
+      "phonetic": "/məˈʃiːn/",
+      "translation": "机器",
+      "cardId": "core-014"
+    },
+    "machines": {
+      "phonetic": "/məˈʃinz/",
+      "translation": "机器"
+    },
+    "many": {
+      "phonetic": "/ˈmɛni/",
+      "translation": "许多"
+    },
+    "maybe": {
+      "phonetic": "/ˈmeɪbi/",
+      "translation": "或许"
+    },
+    "mean": {
+      "phonetic": "/min/",
+      "translation": "意思是"
+    },
+    "might": {
+      "phonetic": "/maɪt/",
+      "translation": "可能"
+    },
+    "more": {
+      "phonetic": "/mɔr/",
+      "translation": "更多的"
+    },
+    "new": {
+      "phonetic": "/nu/",
+      "translation": "新的"
+    },
+    "not": {
+      "phonetic": "/nɑt/",
+      "translation": "不是"
+    },
+    "of": {
+      "phonetic": "/əv/",
+      "translation": "……的"
+    },
+    "on": {
+      "phonetic": "/ɑːn/",
+      "translation": "在……上"
+    },
+    "only": {
+      "phonetic": "/ˈoʊnli/",
+      "translation": "仅有的"
+    },
+    "or": {
+      "phonetic": "/ɔːr/",
+      "translation": "或者"
+    },
+    "over": {
+      "phonetic": "/ˈoʊvər/",
+      "translation": "超过"
+    },
+    "people": {
+      "phonetic": "/ˈpipəl/",
+      "translation": "人们"
+    },
+    "plane": {
+      "phonetic": "/pleɪn/",
+      "translation": "飞机"
+    },
+    "planes": {
+      "phonetic": "/pleɪnz/",
+      "translation": "飞机"
+    },
+    "rise": {
+      "phonetic": "/raɪz/",
+      "translation": "上升"
+    },
+    "robot": {
+      "phonetic": "/ˈrəʊbɒt/",
+      "translation": "机器人",
+      "cardId": "core-015"
+    },
+    "robots": {
+      "phonetic": "/ˈroʊˌbəts/",
+      "translation": "机器人"
+    },
+    "sea": {
+      "phonetic": "/ˈsiː levl/",
+      "translation": "海平面",
+      "cardId": "core-006"
+    },
+    "sea-level": {
+      "phonetic": "/ˈsiː levl/",
+      "translation": "海平面",
+      "cardId": "core-006"
+    },
+    "shorter": {
+      "phonetic": "/ˈʃɔrtər/",
+      "translation": "更短"
+    },
+    "small": {
+      "phonetic": "/smɔl/",
+      "translation": "小的"
+    },
+    "so": {
+      "phonetic": "/soʊ/",
+      "translation": "所以"
+    },
+    "some": {
+      "phonetic": "/səm/",
+      "translation": "一些"
+    },
+    "space": {
+      "phonetic": "/speɪs/",
+      "translation": "太空",
+      "cardId": "core-012"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "translation": "这个；那个"
+    },
+    "their": {
+      "phonetic": "/ðɛr/",
+      "translation": "他们的"
+    },
+    "therell": {
+      "phonetic": "/ðer əl/",
+      "translation": "将会有"
+    },
+    "these": {
+      "phonetic": "/ðiz/",
+      "translation": "这些"
+    },
+    "they": {
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们"
+    },
+    "think": {
+      "phonetic": "/θɪŋk/",
+      "translation": "思考"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "translation": "到；向"
+    },
+    "too": {
+      "phonetic": "/tu/",
+      "translation": "也"
+    },
+    "travel": {
+      "phonetic": "/ˈtrævl/",
+      "translation": "旅行",
+      "cardId": "core-007"
+    },
+    "true": {
+      "phonetic": "/truː/",
+      "translation": "真实的",
+      "cardId": "core-005"
+    },
+    "turn": {
+      "phonetic": "/tərn/",
+      "translation": "转动"
+    },
+    "us": {
+      "phonetic": "/ˈjuˈɛs/",
+      "translation": "我们"
+    },
+    "warm": {
+      "phonetic": "/wɔrm/",
+      "translation": "温暖的"
+    },
+    "warmer": {
+      "phonetic": "/ˈwɔrmər/",
+      "translation": "更温暖"
+    },
+    "we": {
+      "phonetic": "/wiː/",
+      "translation": "我们"
+    },
+    "weather": {
+      "phonetic": "/ˈwɛðər/",
+      "translation": "天气"
+    },
+    "well": {
+      "phonetic": "/wɛl/",
+      "translation": "出色地"
+    },
+    "what": {
+      "phonetic": "/wət/",
+      "translation": "什么"
+    },
+    "when": {
+      "phonetic": "/wɪn/",
+      "translation": "什么时候"
+    },
+    "which": {
+      "phonetic": "/wɪʧ/",
+      "translation": "哪个"
+    },
+    "will": {
+      "phonetic": "/wɪl/",
+      "translation": "将要"
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "translation": "和；带有"
+    },
+    "wonder": {
+      "phonetic": "/ˈwʌndə(r)/",
+      "translation": "想知道",
+      "cardId": "core-002"
+    },
+    "wont": {
+      "phonetic": "/woʊnt/",
+      "translation": "不会"
+    },
+    "working": {
+      "phonetic": "/ˈwərkɪŋ/",
+      "translation": "在职的"
+    },
+    "world": {
+      "phonetic": "/wɜːld/",
+      "translation": "世界",
+      "cardId": "core-003"
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "translation": "你；你们"
+    },
+    "your": {
+      "phonetic": "/jʊr/",
+      "translation": "你的；你们的"
+    }
+  },
+  "coreCards": [
+    {
+      "id": "core-001",
+      "word": "future",
+      "speak": "future",
+      "phonetic": "/ˈfjuːtʃə(r)/",
+      "meaning": "未来",
+      "memory": "future → 未来",
+      "match": "future",
+      "example": "What do you think of future life? 你认为未来生活会怎样？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-002",
+      "word": "wonder",
+      "speak": "wonder",
+      "phonetic": "/ˈwʌndə(r)/",
+      "meaning": "想知道",
+      "memory": "wonder → 想知道",
+      "match": "wonder",
+      "example": "Do you wonder how the world might change? 你想知道世界可能会如何改变吗？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-003",
+      "word": "world",
+      "speak": "world",
+      "phonetic": "/wɜːld/",
+      "meaning": "世界",
+      "memory": "world → 世界",
+      "match": "world",
+      "example": "Do you wonder how the world might change? 你想知道世界可能会如何改变吗？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-004",
+      "word": "change",
+      "speak": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "meaning": "改变",
+      "memory": "change → 改变",
+      "match": "change",
+      "example": "Do you wonder how the world might change? 你想知道世界可能会如何改变吗？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-005",
+      "word": "true",
+      "speak": "true",
+      "phonetic": "/truː/",
+      "meaning": "真实的",
+      "memory": "true → 真实的",
+      "match": "true",
+      "example": "Which of these might come true? 其中哪些可能会实现呢？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-006",
+      "word": "sea level",
+      "speak": "sea level",
+      "phonetic": "/ˈsiː levl/",
+      "meaning": "海平面",
+      "memory": "sea level → 海平面",
+      "match": "sea level",
+      "example": "The sea level will rise as well. 海平面也会上升。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-007",
+      "word": "travel",
+      "speak": "travel",
+      "phonetic": "/ˈtrævl/",
+      "meaning": "旅行",
+      "memory": "travel → 旅行",
+      "match": "travel",
+      "example": "We won't travel by bus or car any more. 我们将不再乘公共汽车或汽车旅行。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-008",
+      "word": "afford",
+      "speak": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "meaning": "买得起；承担得起",
+      "memory": "afford → 买得起；承担得起",
+      "match": "afford",
+      "example": "Every family can afford a small plane. 每个家庭都买得起一架小飞机。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-009",
+      "word": "cheap",
+      "speak": "cheap",
+      "phonetic": "/tʃiːp/",
+      "meaning": "便宜的",
+      "memory": "cheap → 便宜的",
+      "match": "cheap",
+      "example": "It'll be cheap to travel anywhere--not only over land, but also over the sea or even into space. 去任何地方旅行都会很便宜，不仅能飞越陆地，也能飞越海洋，甚至进入太空。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-010",
+      "word": "anywhere",
+      "speak": "anywhere",
+      "phonetic": "/ˈeniweə(r)/",
+      "meaning": "任何地方",
+      "memory": "anywhere → 任何地方",
+      "match": "anywhere",
+      "example": "It'll be cheap to travel anywhere--not only over land, but also over the sea or even into space. 去任何地方旅行都会很便宜，不仅能飞越陆地，也能飞越海洋，甚至进入太空。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-011",
+      "word": "land",
+      "speak": "land",
+      "phonetic": "/lænd/",
+      "meaning": "陆地",
+      "memory": "land → 陆地",
+      "match": "land",
+      "example": "It'll be cheap to travel anywhere--not only over land, but also over the sea or even into space. 去任何地方旅行都会很便宜，不仅能飞越陆地，也能飞越海洋，甚至进入太空。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-012",
+      "word": "space",
+      "speak": "space",
+      "phonetic": "/speɪs/",
+      "meaning": "太空",
+      "memory": "space → 太空",
+      "match": "space",
+      "example": "It'll be cheap to travel anywhere--not only over land, but also over the sea or even into space. 去任何地方旅行都会很便宜，不仅能飞越陆地，也能飞越海洋，甚至进入太空。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-013",
+      "word": "airport",
+      "speak": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meaning": "机场",
+      "memory": "airport → 机场",
+      "match": "airport",
+      "example": "What do you think of future life? 你认为未来生活会怎样？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-014",
+      "word": "machine",
+      "speak": "machine",
+      "phonetic": "/məˈʃiːn/",
+      "meaning": "机器",
+      "memory": "machine → 机器",
+      "match": "machine",
+      "example": "What do you think of future life? 你认为未来生活会怎样？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-015",
+      "word": "robot",
+      "speak": "robot",
+      "phonetic": "/ˈrəʊbɒt/",
+      "meaning": "机器人",
+      "memory": "robot → 机器人",
+      "match": "robot",
+      "example": "What do you think of future life? 你认为未来生活会怎样？",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-016",
+      "word": "difficult",
+      "speak": "difficult",
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "meaning": "困难的",
+      "memory": "difficult → 困难的",
+      "match": "difficult",
+      "example": "Turn on your machines and robots, and they will do all the heavy and difficult jobs for you. 打开你的机器和机器人，它们会为你做所有又重又难的工作。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-017",
+      "word": "job",
+      "speak": "job",
+      "phonetic": "/dʒɒb/",
+      "meaning": "工作",
+      "memory": "job → 工作",
+      "match": "job",
+      "example": "What do you think of future life? 你认为未来生活会怎样？",
+      "note": "先听发音，再跟着句子读一遍。"
+    }
+  ],
+  "coreWords": [
+    {
+      "word": "future",
+      "phonetic": "/ˈfjuːtʃə(r)/",
+      "meaning": "未来"
+    },
+    {
+      "word": "wonder",
+      "phonetic": "/ˈwʌndə(r)/",
+      "meaning": "想知道"
+    },
+    {
+      "word": "world",
+      "phonetic": "/wɜːld/",
+      "meaning": "世界"
+    },
+    {
+      "word": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "meaning": "改变"
+    },
+    {
+      "word": "true",
+      "phonetic": "/truː/",
+      "meaning": "真实的"
+    },
+    {
+      "word": "sea level",
+      "phonetic": "/ˈsiː levl/",
+      "meaning": "海平面"
+    },
+    {
+      "word": "travel",
+      "phonetic": "/ˈtrævl/",
+      "meaning": "旅行"
+    },
+    {
+      "word": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "meaning": "买得起；承担得起"
+    },
+    {
+      "word": "cheap",
+      "phonetic": "/tʃiːp/",
+      "meaning": "便宜的"
+    },
+    {
+      "word": "anywhere",
+      "phonetic": "/ˈeniweə(r)/",
+      "meaning": "任何地方"
+    },
+    {
+      "word": "land",
+      "phonetic": "/lænd/",
+      "meaning": "陆地"
+    },
+    {
+      "word": "space",
+      "phonetic": "/speɪs/",
+      "meaning": "太空"
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meaning": "机场"
+    },
+    {
+      "word": "machine",
+      "phonetic": "/məˈʃiːn/",
+      "meaning": "机器"
+    },
+    {
+      "word": "robot",
+      "phonetic": "/ˈrəʊbɒt/",
+      "meaning": "机器人"
+    },
+    {
+      "word": "difficult",
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "meaning": "困难的"
+    },
+    {
+      "word": "job",
+      "phonetic": "/dʒɒb/",
+      "meaning": "工作"
+    }
+  ]
+}
