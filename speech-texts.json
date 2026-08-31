@@ -1,94 +1,206 @@
 {
-  "voice": "adult male | teacher clear",
-  "reference": "12-adult-male-teacher-clear.wav",
-  "cfg_value": 1.35,
-  "inference_timesteps": 12,
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "reference": "/Users/zhaozixu/Applications/IndexTTS-2.5/presets/british_teacher/reference_slow.wav",
+  "cfg_value": 1.6,
+  "inference_timesteps": 10,
   "normalize": false,
   "pages": [
     {
       "page": 0,
       "visible": "Future Life",
-      "speech": "Future Life"
+      "speech": "Future Life",
+      "file": "sentences/page-00.mp3",
+      "duration_seconds": 2.589,
+      "raw_duration_seconds": 1.12,
+      "asr": "future life.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 1,
       "visible": "What do you think of future life?",
-      "speech": "What do you think of future life?"
+      "speech": "What do you think of future life?",
+      "file": "sentences/page-01.mp3",
+      "duration_seconds": 4.563,
+      "raw_duration_seconds": 2.08,
+      "asr": "What do you think of future life?",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 2,
       "visible": "Do you wonder how the world might change?",
-      "speech": "Do you wonder how the world might change?"
+      "speech": "Do you wonder how the world might change?",
+      "file": "sentences/page-02.mp3",
+      "duration_seconds": 4.899,
+      "raw_duration_seconds": 2.56,
+      "asr": "Do you wonder how the world might change?",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 3,
       "visible": "Here are some ideas.",
-      "speech": "Here are some ideas."
+      "speech": "Here are some ideas.",
+      "file": "sentences/page-03.mp3",
+      "duration_seconds": 4.052,
+      "raw_duration_seconds": 1.92,
+      "asr": "Here are some ideas.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 4,
       "visible": "Which of these might come true?",
-      "speech": "Which of these might come true?"
+      "speech": "Which of these might come true?",
+      "file": "sentences/page-04.mp3",
+      "duration_seconds": 4.853,
+      "raw_duration_seconds": 2.08,
+      "asr": "Which of these might come true?",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 5,
       "visible": "In the future, the weather will become warmer and warmer.",
-      "speech": "In the future, the weather will become warmer and warmer."
+      "speech": "In the future, the weather will become warmer and warmer.",
+      "file": "sentences/page-05.mp3",
+      "duration_seconds": 6.072,
+      "raw_duration_seconds": 3.36,
+      "asr": "In the future, the weather will become warmer and warmer.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 6,
       "visible": "The sea level will rise as well.",
-      "speech": "The sea level will rise as well."
+      "speech": "The sea level will rise as well.",
+      "file": "sentences/page-06.mp3",
+      "duration_seconds": 4.331,
+      "raw_duration_seconds": 2.4,
+      "asr": "the sea level will rise as well.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 7,
       "visible": "However, weather changes won't mean changing clothes.",
-      "speech": "However, weather changes won't mean changing clothes."
+      "speech": "However, weather changes won't mean changing clothes.",
+      "file": "sentences/page-07.mp3",
+      "duration_seconds": 6.165,
+      "raw_duration_seconds": 3.52,
+      "asr": "However, weather changes won't mean changing clothes.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 8,
       "visible": "A new kind of coat can keep us warm when it's cold, and cool when it's hot.",
-      "speech": "A new kind of coat can keep us warm when it's cold, and cool when it's hot."
+      "speech": "A new kind of coat can keep us warm when it's cold, and cool when it's hot.",
+      "file": "sentences/page-08.mp3",
+      "duration_seconds": 8.615,
+      "raw_duration_seconds": 4.8,
+      "asr": "A new kind of coat can keep us warm when it is cold and cool when it is hot.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 9,
       "visible": "We won't travel by bus or car any more.",
-      "speech": "We won't travel by bus or car any more."
+      "speech": "We won't travel by bus or car any more.",
+      "file": "sentences/page-09.mp3",
+      "duration_seconds": 5.225,
+      "raw_duration_seconds": 2.88,
+      "asr": "We won't travel by bus or car anymore.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 10,
       "visible": "Every family can afford a small plane.",
-      "speech": "Every family can afford a small plane."
+      "speech": "Every family can afford a small plane.",
+      "file": "sentences/page-10.mp3",
+      "duration_seconds": 5.132,
+      "raw_duration_seconds": 2.56,
+      "asr": "Every family can afford a small plane.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 11,
       "visible": "It'll be cheap to travel anywhere--not only over land, but also over the sea or even into space.",
-      "speech": "It'll be cheap to travel anywhere--not only over land, but also over the sea or even into space."
+      "speech": "It'll be cheap to travel anywhere--not only over land, but also over the sea or even into space.",
+      "file": "sentences/page-11.mp3",
+      "duration_seconds": 9.23,
+      "raw_duration_seconds": 5.92,
+      "asr": "it'll be cheap to travel anywhere, not only over land, but also over the sea or even into space.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 12,
       "visible": "Maybe there'll be too many planes at airports.",
-      "speech": "Maybe there'll be too many planes at airports."
+      "speech": "Maybe there'll be too many planes at airports.",
+      "file": "sentences/page-12.mp3",
+      "duration_seconds": 6.351,
+      "raw_duration_seconds": 2.88,
+      "asr": "Maybe there'll be too many planes at airports.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 13,
       "visible": "Do you like long holidays?",
-      "speech": "Do you like long holidays?"
+      "speech": "Do you like long holidays?",
+      "file": "sentences/page-13.mp3",
+      "duration_seconds": 3.622,
+      "raw_duration_seconds": 2.08,
+      "asr": "Do you like long holidays?",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 14,
       "visible": "If so, you will enjoy the future life.",
-      "speech": "If so, you will enjoy the future life."
+      "speech": "If so, you will enjoy the future life.",
+      "file": "sentences/page-14.mp3",
+      "duration_seconds": 5.178,
+      "raw_duration_seconds": 2.72,
+      "asr": "If so, you will enjoy the future life.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 15,
       "visible": "Turn on your machines and robots, and they will do all the heavy and difficult jobs for you.",
-      "speech": "Turn on your machines and robots, and they will do all the heavy and difficult jobs for you."
+      "speech": "Turn on your machines and robots, and they will do all the heavy and difficult jobs for you.",
+      "file": "sentences/page-15.mp3",
+      "duration_seconds": 8.858,
+      "raw_duration_seconds": 5.44,
+      "asr": "Turn on your machines and robots, and they will do all the heavy and difficult jobs for you.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 16,
       "visible": "With their help, people will have shorter working hours and longer holidays.",
-      "speech": "With their help, people will have shorter working hours and longer holidays."
+      "speech": "With their help, people will have shorter working hours and longer holidays.",
+      "file": "sentences/page-16.mp3",
+      "duration_seconds": 7.105,
+      "raw_duration_seconds": 4.64,
+      "asr": "With their help, people will have shorter working hours and longer holidays.",
+      "asr_exact": true,
+      "needs_manual_review": false
     }
-  ]
+  ],
+  "model": "IndexTeam/IndexTTS-2.5",
+  "post_atempo": null,
+  "method": "fixed British reference cloned sentence by sentence with IndexTTS2.5; native 1.18 duration factor; strict local ASR; capped Rubber Band R3 alignment; two-pass loudness normalization",
+  "qa": {
+    "sentence_count": 17,
+    "asr_exact_count": 17,
+    "manual_review_pages": [],
+    "all_files_decode": true,
+    "checksums_verified": true
+  }
 }
